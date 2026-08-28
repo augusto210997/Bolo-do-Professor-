@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Estoque Supabase",
+  "description": "Sistema completo de controle e gestão de estoque com cadastro de produtos, quantidades, estoque mínimo, categorias e integração com banco de dados Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
